@@ -32,7 +32,8 @@ Hecha por **Jesús Pariente González**, estudiante de segundo año de Ingenier�
 * GitHub: [P4RGON](https://github.com/P4RGON)
 
 ## Licencia
-Este proyecto está distribuido bajo la licencia **GNU General Public License v3.0 (GPL-3.0)**.
-Puedes usar, modificar y redistribuir el código, siempre que las versiones derivadas se publiquen también bajo GPL-3.0 y con su código fuente disponible.
+Este proyecto está distribuido bajo la licencia **GNU Affero General Public License v3.0 (AGPL-3.0)**.
+Puedes usar, modificar y redistribuir el código, siempre que las versiones derivadas se publiquen también bajo AGPL-3.0 y con su código fuente disponible.
+Esto también se aplica si el software se ofrece como servicio a través de una red (por ejemplo, como aplicación web): quien lo haga debe poner el código fuente a disposición de sus usuarios.
 
 Consulta el archivo [LICENSE](LICENSE) para ver el texto completo.
