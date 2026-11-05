@@ -29,7 +29,7 @@ ui ---> controler --> service --> repository ---> db
 ## Autor
 Hecha por **Jesús Pariente González**, estudiante de segundo año de Ingeniería Informática en la Universidad Camilo José Cela (UCJC).
 
-* GitHub: [P4RGON](https://github.com/P4RGON)
+* GitHub: [P4RGON](https://github.com/jesuparii)
 
 ## Licencia
 Este proyecto está distribuido bajo la licencia **GNU Affero General Public License v3.0 (AGPL-3.0)**.
