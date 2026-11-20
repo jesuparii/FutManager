@@ -1,14 +1,15 @@
-# Agenda Futbol
+# FutManager
 Una red social web, en la que los usuarios pueden poner anclar sus jugadores 
 y subir a una nube anotaciones, videos, gestionar sesiones y chats con los jugadores
 
 ## Tecnologías
-Al principio se va a crear con java pero al tener toda la estructura base hecha se migrará a springboot
+Al principio se va a crear con java, pero al tener toda la estructura base hecha se migrará a springboot
 * Lenguaje: Java 25
 * Gestor de dependencias: Maven
 * Interfaz: JavaFX 22 (`javafx-controls`, `javafx-fxml`)
 * BD: PostgreSQL 18.4 (driver JDBC `postgresql` 42.7.14)
 * Pool de conexiones: HikariCP 7.1.0
+* Logs: SLF4J 2.0.20 (`slf4j-simple`)
 * Excel / documentos Office: Apache POI 6.0.0 (`poi`, `poi-ooxml`)
 * IDE: IntelliJ IDEA
 
