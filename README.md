@@ -8,6 +8,7 @@ Al principio se va a crear con java pero al tener toda la estructura base hecha 
 * Gestor de dependencias: Maven
 * Interfaz: JavaFX 22 (`javafx-controls`, `javafx-fxml`)
 * BD: PostgreSQL 18.4 (driver JDBC `postgresql` 42.7.14)
+* Pool de conexiones: HikariCP 7.1.0
 * Excel / documentos Office: Apache POI 6.0.0 (`poi`, `poi-ooxml`)
 * IDE: IntelliJ IDEA
 
