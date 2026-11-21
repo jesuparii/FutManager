@@ -37,3 +37,9 @@ build/
 
 ### Credenciales BD ###
 db.properties
+
+### Claude / MCP ###
+.mcp.json
+
+### Docs ###
+docs/
